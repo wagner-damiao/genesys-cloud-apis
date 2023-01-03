@@ -1,0 +1,176 @@
+
+{
+   "name": "Restricted User Management",
+   "description": "Restricted User Management",
+   "permissions": [
+     "user_manager",
+     "group_creation",
+     "group_administration"
+   ],
+   "permissionPolicies": [
+     {
+       "domain": "routing",
+       "entityName": "queueMember",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "chat",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "alerting",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "skill",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "callRoute",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "externalContacts",
+       "entityName": "externalOrganization",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "groups",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "billing",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "schedule",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "skillgroup",
+       "actionSet": [
+         "view"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "telephony",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "bridge",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "analytics",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "directory",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "queue",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "audits",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "routing",
+       "entityName": "scheduleGroup",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "mobile",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "attributes",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     },
+     {
+       "domain": "contract",
+       "entityName": "*",
+       "actionSet": [
+         "*"
+       ],
+       "allowConditions": false
+     }
+   ],
+   "userCount": 0,
+   "roleNeedsUpdate": true,
+   "base": true,
+   "default": true
+ },
