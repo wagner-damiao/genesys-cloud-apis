@@ -1,3 +1,25 @@
-# genesys-cloud-apis
+
+# Genesys Cloud APIs Samples
+
 Genesys Cloud API request files and samples.
-Here are stored samples to update Genesys Cloud Features using Genesys Developer Tools at https://developer.genesys.cloud/developer-tools/
+Samples to update Genesys Cloud Features using Genesys Developer Tools.
+
+
+
+## Reference
+
+ - [Genesys Cloud Developer Tools](https://developer.genesys.cloud/developer-tools/)
+ 
+
+## API Documentation 
+
+#### Create Organization Role
+
+```http
+  POST /api/v2/authorization/roles
+```
+
+## Genesys Cloud Roles - Restricted User Management
+
+ 
+POST /api/v2/authorization/roles
