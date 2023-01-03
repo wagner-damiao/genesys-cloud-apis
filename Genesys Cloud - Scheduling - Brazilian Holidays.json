@@ -1,0 +1,102 @@
+[
+{
+  "name": "Feriado - Confraternização Universal",
+  "description": "Feriado - Confraternização Universal",
+  "version": 1,
+  "start": "2023-01-01T00:00:00.000",
+  "end": "2023-01-01T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Carnaval",
+  "description": "Feriado - Carnaval",
+  "version": 1,
+  "start": "2023-02-20T00:00:00.000",
+  "end": "2023-02-20T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Carnaval 2",
+  "description": "Feriado - Carnaval 2",
+  "version": 1,
+  "start": "2023-02-21T00:00:00.000",
+  "end": "2023-02-21T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Paixão de Cristo",
+  "description": "Feriado - Paixão de Cristo",
+  "version": 1,
+  "start": "2023-04-07T00:00:00.000",
+  "end": "2023-04-07T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Tiradentes",
+  "description": "Feriado - Tiradentes",
+  "version": 1,
+  "start": "2023-04-21T00:00:00.000",
+  "end": "2023-04-21T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Dia do Trabalho",
+  "description": "Feriado - Dia do Trabalho",
+  "version": 1,
+  "start": "2023-05-01T00:00:00.000",
+  "end": "2023-05-01T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Corpus Christi",
+  "description": "Feriado - Corpus Christi",
+  "version": 1,
+  "start": "2023-06-08T00:00:00.000",
+  "end": "2023-06-08T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Independência do Brasil",
+  "description": "Feriado - Independência do Brasil",
+  "version": 1,
+  "start": "2023-09-07T00:00:00.000",
+  "end": "2023-09-07T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Nossa Sr.a Aparecida - Padroeira do Brasil",
+  "description": "Feriado - Nossa Sr.a Aparecida - Padroeira do Brasil",
+  "version": 1,
+  "start": "2023-10-12T00:00:00.000",
+  "end": "2023-10-12T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Finados",
+  "description": "Feriado - Finados",
+  "version": 1,
+  "start": "2023-11-02T00:00:00.000",
+  "end": "2023-11-02T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Proclamação da República",
+  "description": "Feriado - Proclamação da República",
+  "version": 1,
+  "start": "2023-11-15T00:00:00.000",
+  "end": "2023-11-15T23:59:59.000"
+},
+
+{
+  "name": "Feriado - Natal",
+  "description": "Feriado - Natal",
+  "version": 1,
+  "start": "2023-12-25T00:00:00.000",
+  "end": "2023-12-25T23:59:59.000"
+}
+]
+
+
+
+
+
