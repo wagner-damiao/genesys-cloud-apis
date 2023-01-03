@@ -1,5 +1,5 @@
 
-# Genesys Cloud APIs Samples
+# Genesys Cloud Request APIs Samples
 
 Genesys Cloud API request files and samples.
 Samples to update Genesys Cloud Features using Genesys Developer Tools.
