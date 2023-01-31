@@ -1,0 +1,99 @@
+{      
+  
+      "name": "Architect Read Only",
+      "description": "Architect Ready Only",
+      "permissions": [],
+      "permissionPolicies": [
+        {
+          "domain": "architect",
+          "entityName": "systemPrompt",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "flow",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "flowMilestone",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "job",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "flowExecution",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "datatableRow",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "flowOutcome",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "ui",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "datatable",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "userPrompt",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        },
+        {
+          "domain": "architect",
+          "entityName": "dependencyTracking",
+          "actionSet": [
+            "view"
+          ],
+          "allowConditions": false
+        }
+      ],
+      "userCount": 0,
+      "base": false,
+      "default": false
+    }
